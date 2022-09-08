@@ -2,7 +2,7 @@
 
 1.云脉驾照云识别，可以拍照或导入身份证图片进行识别
 
-2.https://github.com/xmyunmai/OCR_APP_Bankcard 下载demo
+2.https://github.com/xmyunmai/OCR_APP_DL 下载demo
 
 3.在https://www.yunmaiocr.com 官网上注册，注册之后会有api账号及api密码生成
 
